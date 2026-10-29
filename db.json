@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "fullName": "Aysha Jinan",
+      "username": "AJTestname",
+      "email": "ayshajinan989@gmail.com",
+      "password": "ajfijjab62008jj",
+      "avatar": "",
+      "createdAt": "2026-10-29T09:27:15.743Z",
+      "id": "rezzlucYW6s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
